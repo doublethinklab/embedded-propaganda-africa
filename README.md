@@ -38,6 +38,10 @@ The percentage of EP from each site is as follows:
 
 ![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/percent_ep.png?raw=true)
 
+For the top-3 sites, the volume over the period of 2022 is as follows:
+
+![Percentage of Embedded Propaganda Types](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/top3_over_time.png?raw=true)
+
 We break down the EP types per site as follows:
 
 ![Percentage of Embedded Propaganda Types](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/ep_types.png?raw=true)
