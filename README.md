@@ -16,7 +16,7 @@ Stay tuned for a deeper report from China Digital Times, that digs deeper into t
 
 ## Methodology
 
-We collected large numbers of articles from PRC state media, and local African media.
+We collected large numbers of articles from PRC state media, and local African media, during the period 2022-01-01 to 2022-12-31 (a full year).
 The articles were all in English.
 We used semantic similarity technology to identify candidate matches between a candidate (African media) article and a source (PRC state media) article.
 Encoding was performed using the pretrained sentence transformer, [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
