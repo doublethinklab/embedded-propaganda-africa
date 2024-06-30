@@ -34,7 +34,7 @@ The total number of EP from each site is as follows:
 
 ![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/count_ep.png?raw=true)
 
-The percentage of EP from each site is as follows:
+The percentage of EP (i.e., total number of EP divided by number of articles we collected) from each site is as follows:
 
 ![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/percent_ep.png?raw=true)
 
