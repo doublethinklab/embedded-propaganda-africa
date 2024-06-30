@@ -29,6 +29,11 @@ We validated our methodology on a subset of findings, and fine-tuned the methodo
 ## Findings
 
 This pilot study looks at the following websites from Ghana, Kenya, and Uganda.
+
+The total number of EP from each site is as follows:
+
+![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/count_ep.png?raw=true)
+
 The percentage of EP from each site is as follows:
 
 ![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/percent_ep.png?raw=true)
