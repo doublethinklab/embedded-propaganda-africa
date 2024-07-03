@@ -38,6 +38,7 @@ Uganda
 - dailyexpress.co.ug
 - independent.co.ug
 - newvision.co.ug
+
 Kenya
 - thecoast.co.ke
 - businessdailyafrica.com
@@ -56,6 +57,7 @@ Kenya
 - the-star.co.ke
 - capitalfm.co.ke
 - kenyan-post.com
+
 Ghana
 - dailystatesman.com.gh
 - adomonline.co
