@@ -30,6 +30,58 @@ We validated our methodology on a subset of findings, and fine-tuned the methodo
 
 This pilot study looks at the following websites from Ghana, Kenya, and Uganda.
 
+Uganda
+- observer.ug 
+- redpepper.co.ug
+- busiweek.com
+- monitor.co.ug
+- dailyexpress.co.ug
+- independent.co.ug
+- newvision.co.ug
+Kenya
+- thecoast.co.ke
+- businessdailyafrica.com
+- live.k24tv.co.ke
+- games.standardmedia.co.ke
+- k24tv.co.ke
+- businesstoday.co.ke
+- tuko.co.ke
+- kenya-today.com
+- theeastafrican.co.ke
+- standardmedia.co.ke
+- kenyanews.go.ke
+- nairobiwire.com
+- kenyans.co.ke
+- kbc.co.ke
+- the-star.co.ke
+- capitalfm.co.ke
+- kenyan-post.com
+Ghana
+- dailystatesman.com.gh
+- adomonline.co
+- adomonline.com
+- theheraldghana.com
+- peacefmonline.com
+- myjoyonline.com
+- citinewsroom.com
+- myinfo.com.gh
+- thebftonline.com
+- dailyguidenetwork.com
+- graphic.com.gh
+- ghanaweb.com
+- publicagendagh.com
+- newsghana.com.gh
+- ghanaiantimes.com.gh
+- mynewsghana.net
+- thechronicle.com.gh
+- modernghana.com
+- pulse.com.gh
+- 3news.com
+- browngh.com
+- yen.com.gh
+
+The analysis below pertains to all outlets for which we identified at least one instance of embedded propaganda.
+
 The total number of EP from each site is as follows:
 
 ![Percentage of Embedded Propaganda](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/count_ep.png?raw=true)
