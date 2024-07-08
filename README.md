@@ -106,3 +106,10 @@ The results for each country can be found in the `Data` folder.
 
 The statistics that were used to produce the plots above can be found in 
 the file `Data/Embedded Propaganda Statistics.csv`.
+
+## Limitations
+
+Minor noise in the results may come from any of the following limitations of this initial methodology:
+- Some source articles are not traced back to the original state media publication. For example, an article might be published by Xinhua, then republished by People's Daily. Some detected source articles may show a different state media outlet to the original.
+- In many instances we are able to automatically check the attributions - however, in some cases, we have captured articles first published by a third party, then by state media, which then become embedded propaganda.
+- We discovered (and removed) one instance where an article for a particular outlet was counted twice due to the same article being published at two unique urls.
