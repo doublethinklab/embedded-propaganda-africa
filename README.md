@@ -44,7 +44,6 @@ Kenya
 - businessdailyafrica.com
 - live.k24tv.co.ke
 - games.standardmedia.co.ke
-- k24tv.co.ke
 - businesstoday.co.ke
 - tuko.co.ke
 - kenya-today.com
@@ -53,7 +52,6 @@ Kenya
 - kenyanews.go.ke
 - nairobiwire.com
 - kenyans.co.ke
-- kbc.co.ke
 - the-star.co.ke
 - capitalfm.co.ke
 - kenyan-post.com
@@ -71,12 +69,10 @@ Ghana
 - dailyguidenetwork.com
 - graphic.com.gh
 - ghanaweb.com
-- publicagendagh.com
 - newsghana.com.gh
 - ghanaiantimes.com.gh
 - mynewsghana.net
 - thechronicle.com.gh
-- modernghana.com
 - pulse.com.gh
 - 3news.com
 - browngh.com
@@ -102,7 +98,7 @@ We break down the EP types per site as follows:
 
 ## Data
 
-The results for each country can be found in the `Data` folder.
+The results for each country can be found in the `Data` folder in the file `Results All Countries.csv`.
 
 The statistics that were used to produce the plots above can be found in 
 the file `Data/Embedded Propaganda Statistics.csv`.
