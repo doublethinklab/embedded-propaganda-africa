@@ -89,7 +89,7 @@ The percentage of EP (i.e., total number of EP divided by number of articles we 
 
 For the top-2 sites, the volume over the period of study is as follows:
 
-![Percentage of Embedded Propaganda Types](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/top3_over_time.png?raw=true)
+![Percentage of Embedded Propaganda Types](https://github.com/doublethinklab/embedded-propaganda-africa/blob/main/Figures/top2_over_time.png?raw=true)
 
 We break down the EP types per site as follows:
 
