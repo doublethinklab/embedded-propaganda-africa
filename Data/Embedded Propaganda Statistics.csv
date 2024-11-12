@@ -1,10 +1,10 @@
-Country,Site,n,Embedded Propaganda,Attributed,Un-Attributed,Re-Attributed,% Embedded Propaganda,% Attributed,% Un-Attributed,% Re-Attributed
-Uganda,independent.co.ug,7402,534,528,0,6,0.07214266414482572,0.9887640449438202,0.0,0.011235955056179775
-Uganda,redpepper.co.ug,2257,2,0,0,2,0.0008861320336730173,0.0,0.0,1.0
-Uganda,dailyexpress.co.ug,2865,5,4,0,1,0.0017452006980802793,0.8,0.0,0.2
-Kenya,standardmedia.co.ke,19285,14,14,0,0,0.0007259528130671506,1.0,0.0,0.0
-Kenya,capitalfm.co.ke,10537,19,19,0,0,0.0018031697826705894,1.0,0.0,0.0
-Kenya,the-star.co.ke,22661,4,3,0,1,0.00017651471691452274,0.75,0.0,0.25
-Ghana,newsghana.com.gh,37836,602,600,0,2,0.015910772808965006,0.9966777408637874,0.0,0.0033222591362126247
-Ghana,ghanaiantimes.com.gh,8985,21,21,0,0,0.002337228714524207,1.0,0.0,0.0
-Ghana,thechronicle.com.gh,4302,2,2,0,0,0.00046490004649000463,1.0,0.0,0.0
+Country,Site,n,Embedded Propaganda,Attributed,Re-Attributed,% Embedded Propaganda,% Attributed,% Re-Attributed
+Uganda,independent.co.ug,7402,534,532,2,0.07214266414482572,0.9962546816479401,0.003745318352059925
+Uganda,redpepper.co.ug,2257,2,1,1,0.0008861320336730173,0.5,0.5
+Uganda,dailyexpress.co.ug,2865,5,4,1,0.0017452006980802793,0.8,0.2
+Kenya,standardmedia.co.ke,19285,14,14,0,0.0007259528130671506,1.0,0.0
+Kenya,capitalfm.co.ke,10537,19,19,0,0.0018031697826705894,1.0,0.0
+Kenya,the-star.co.ke,22661,4,3,1,0.00017651471691452274,0.75,0.25
+Ghana,newsghana.com.gh,37836,602,600,2,0.015910772808965006,0.9966777408637874,0.0033222591362126247
+Ghana,ghanaiantimes.com.gh,8985,21,21,0,0.002337228714524207,1.0,0.0
+Ghana,thechronicle.com.gh,4302,2,2,0,0.00046490004649000463,1.0,0.0
