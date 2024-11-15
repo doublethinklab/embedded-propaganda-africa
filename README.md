@@ -4,11 +4,10 @@
 
 In collaboration with China Digital Times, we looked at the concept of "embedded propaganda" (EP) in African news media.
 EP is the practice of republishing PRC state media under a local masthead.
-We define three different types of EP:
+We define two different types of EP:
 1. **Attributed**: where PRC state media are credited as the source of the story.
-2. **Un-Attributed**: where PRC state media are not credited, and no credit is given.
-3. **Re-Attributed**: where PRC state media are not credited, and credit is re-assigned to another party, such as the local newspaper.
-These can be seen as gradations in the manipulative nature of the practice of embedded propaganda, with (3) the most severe.
+2. **Re-Attributed**: where PRC state media are not credited, and credit is re-assigned to another party, such as the local newspaper.
+These can be seen as gradations in the manipulative nature of the practice of embedded propaganda, with (2) the most severe.
 
 We collected data from news websites in a number of African countries, and developed a computational methodology to identify these three types of EP with high precision.
 The findings here represent the output of a pilot study to prove this methodology.
