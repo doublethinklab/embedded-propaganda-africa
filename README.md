@@ -36,13 +36,9 @@ Uganda
 - monitor.co.ug
 - dailyexpress.co.ug
 - independent.co.ug
-- newvision.co.ug
 
 Kenya
-- thecoast.co.ke
 - businessdailyafrica.com
-- live.k24tv.co.ke
-- games.standardmedia.co.ke
 - businesstoday.co.ke
 - tuko.co.ke
 - kenya-today.com
@@ -54,10 +50,11 @@ Kenya
 - the-star.co.ke
 - capitalfm.co.ke
 - kenyan-post.com
+- k24tv.co.ke
+- kbc.co.ke
 
 Ghana
 - dailystatesman.com.gh
-- adomonline.co
 - adomonline.com
 - theheraldghana.com
 - peacefmonline.com
@@ -75,6 +72,9 @@ Ghana
 - pulse.com.gh
 - 3news.com
 - yen.com.gh
+- browngh.com
+- modernghana.com
+- publicagendagh.com
 
 The analysis below pertains to all outlets for which we identified at least one instance of embedded propaganda.
 
